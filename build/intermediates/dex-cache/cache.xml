@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="utf-8"?>
+<items version="2" >
+
+    <item
+        is-multidex="false"
+        jar="/Users/wangzhen/Android/ZBGit/DarkStatusBar/library/build/intermediates/bundles/default/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.3"
+        sha1="39ec643c9a79a32ca7e3a228d77042585b876acc">
+        <dex dex="/Users/wangzhen/Android/ZBGit/DarkStatusBar/sample/build/intermediates/pre-dexed/debug/classes_7f15bbd01f089b1e1d390accef6b24e699b8d197.jar" />
+    </item>
+
+</items>
