@@ -1,4 +1,4 @@
-package com.core.statusbar.listener;
+package cn.daily.android.statusbar.listener;
 
 import android.content.Context;
 

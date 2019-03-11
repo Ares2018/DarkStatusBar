@@ -1,15 +1,15 @@
-package com.core.statusbar;
+package cn.daily.android.statusbar;
 
 import android.app.Activity;
 import android.content.Context;
 import android.os.Build;
 import android.view.Window;
 
-import com.core.statusbar.helper.ContextHelper;
-import com.core.statusbar.helper.OSHelper;
-import com.core.statusbar.impl.RomActionImpl;
-import com.core.statusbar.listener.RomAction;
-import com.core.statusbar.listener.StatusBar;
+import cn.daily.android.statusbar.helper.ContextHelper;
+import cn.daily.android.statusbar.helper.OSHelper;
+import cn.daily.android.statusbar.impl.RomActionImpl;
+import cn.daily.android.statusbar.listener.RomAction;
+import cn.daily.android.statusbar.listener.StatusBar;
 
 /**
  * 暗色状态栏

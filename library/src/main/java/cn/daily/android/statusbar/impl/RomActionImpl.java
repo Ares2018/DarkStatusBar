@@ -1,10 +1,10 @@
-package com.core.statusbar.impl;
+package cn.daily.android.statusbar.impl;
 
 import android.os.Build;
 import android.view.Window;
 
-import com.core.statusbar.helper.FitHelper;
-import com.core.statusbar.listener.RomAction;
+import cn.daily.android.statusbar.helper.FitHelper;
+import cn.daily.android.statusbar.listener.RomAction;
 
 /**
  * RomAction接口实现类

@@ -1,4 +1,4 @@
-package com.core.statusbar.helper;
+package cn.daily.android.statusbar.helper;
 
 import android.app.Activity;
 import android.content.Context;
