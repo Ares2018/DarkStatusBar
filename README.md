@@ -14,9 +14,9 @@ allprojects {
 }
 ```
 
-2、项目工程build.gradle添加依赖 (点击查看[最新版本](http://10.100.62.98:8086/nexus/#nexus-search;gav~com.core~DarkStatusBar~~~))
+2、项目工程build.gradle添加依赖 (点击查看[最新版本](http://10.100.62.98:8086/nexus/#nexus-search;gav~cn.daily.android~dark-status-bar~~~))
 ``` gradle
-compile 'com.core:DarkStatusBar:0.0.1'
+compile 'cn.daily.android:dark-status-bar:1.0.0'
 ```
 
 #### 使用方法
